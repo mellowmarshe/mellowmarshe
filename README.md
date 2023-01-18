@@ -16,6 +16,14 @@
 
 ##
 
+<div align="center">
+  <p>
+    <strong>
+    WakaTime stats
+    </strong>
+  </p>
+</div>
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
