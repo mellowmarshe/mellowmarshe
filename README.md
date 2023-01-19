@@ -9,7 +9,7 @@
 <div align="center">
   <p>
     <strong>
-    <a href='https://domm.me'>website</a>
+    <a href='https://domm.me'>Website</a>
     </strong>
   </p>
 </div>
