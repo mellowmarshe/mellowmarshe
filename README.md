@@ -41,13 +41,14 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               4 mins              ███████████████████████░░   91.66 % 
+JSON                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+fastify-ts-template      5 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 21/04/2023 18:35:09 UTC
+ Last Updated on 22/04/2023 18:34:53 UTC
 <!--END_SECTION:waka-->
 
