@@ -25,7 +25,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-88%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-89%20hrs%203%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -53,6 +53,6 @@ otta                     9 mins              ███░░░░░░░░�
 ```
 
 
- Last Updated on 12/05/2023 18:34:40 UTC
+ Last Updated on 13/05/2023 18:34:59 UTC
 <!--END_SECTION:waka-->
 
