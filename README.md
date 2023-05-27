@@ -25,7 +25,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-92%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-92%20hrs%2045%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -53,6 +53,6 @@ dom9000bot               13 mins             ████████░░░�
 ```
 
 
- Last Updated on 26/05/2023 18:34:53 UTC
+ Last Updated on 27/05/2023 18:35:10 UTC
 <!--END_SECTION:waka-->
 
