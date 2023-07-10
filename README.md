@@ -41,13 +41,13 @@
 
 ```text
 💬 Programming Languages: 
-C++                      3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-vpn                      3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 09/07/2023 18:36:54 UTC
+ Last Updated on 10/07/2023 18:39:14 UTC
 <!--END_SECTION:waka-->
 
