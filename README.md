@@ -25,7 +25,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-94%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-94%20hrs%2055%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -53,6 +53,6 @@ learn-terraform-init     2 mins              ██░░░░░░░░░�
 ```
 
 
- Last Updated on 13/07/2023 18:38:36 UTC
+ Last Updated on 14/07/2023 18:38:17 UTC
 <!--END_SECTION:waka-->
 
