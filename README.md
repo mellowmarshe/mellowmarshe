@@ -25,7 +25,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-115%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-117%20hrs%2026%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -52,6 +52,6 @@ iac                      6 hrs 53 mins       ███████████�
 ```
 
 
- Last Updated on 21/08/2023 18:35:09 UTC
+ Last Updated on 22/08/2023 18:34:58 UTC
 <!--END_SECTION:waka-->
 
